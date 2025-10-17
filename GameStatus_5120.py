@@ -4,6 +4,7 @@
 #attempting to construct a local module called GameStatus_5120 to act 
 #as custom clas.  GameStatus actions acts as a blueprint to represent a 'tic-tac
 #-toe game state
+#citation: https://docs.python.org/3/tutorial/classes.html
 
 import numpy as np
 import copy
