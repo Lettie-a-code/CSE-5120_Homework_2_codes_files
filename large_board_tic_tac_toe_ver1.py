@@ -109,7 +109,7 @@ class RandomBoardTicTacToe:
         # 3 Optional: show reset message. Gives you quick feedback in Spyder console
         print("✅ Game board has been reset.")        
         #pygame.display.update()  handled in draw game () module
-        #at this point integration with draw_game() is good redraws the window
+
     def play_game(self, mode = "player_vs_ai"):
         done = False
 
