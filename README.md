@@ -1,33 +1,27 @@
-# CSE 5140 – Computational Intelligence  
-## Team 2 – Chicago Divvy Bike Sharing Prediction
+# CSE 5140 – Computational Intelligence
+
+## 🧠 Team 2 –  Computational Intelligence Project
+
+---
+
+# 🚀  Introduction
+
+---
 
 This repository contains the full implementation for the **CSE 5140 Semester Project** for Computational Intelligence.
 
-We design, implement, and rigorously compare the three core paradigms of Computational Intelligence:
+The will design, implement, and rigorously compare the three core paradigms of Computational Intelligence:
 
 - **Neural Networks (NN)**
 - **Evolutionary Algorithms (EA)**
 - **Fuzzy Systems (FS)**
 
-All experiments are executed on **NRP.ai (NRP JupyterHub – PyTorch2 stack)** as required by the project specification.
+Neural Networks are computational models inspired by the human brain that learn patterns from data, Evolutionary Networks use principles of natural selection 
+and genetic adaptation to optimize solutions over time, and Fuzzy Systems apply approximate reasoning with degrees of truth rather than binary logic to 
+handle uncertainty and imprecision in complex problems.
 
----
+--
 
-# 📊 Dataset
-
-**Team 2 Dataset:**  
-Chicago Divvy Bike Sharing  
-
-**Target Variable:** `tripduration` (in minutes)
-
-Fairness Protocol:
-
-- Use **first 1,000,000 rows**
-- Equivalent feature set across teams
-- Train / Validation / Test split: **70 / 15 / 15**
-- Use normalized metrics (R², MAPE) for final comparison
-
----
 # 🧠 Phase Overview
 
 ## Phase 1 – Neural Networks
@@ -60,6 +54,28 @@ Fairness Protocol:
 - Trade-off analysis (accuracy vs cost vs interpretability)
 
 ---
+
+## Why Learn This?
+
+- 🧠 Learning these methods enables you to solve complex real-world problems by modeling patterns, uncertainty, and optimization challenges effectively.
+
+- 📋  Understanding Neural Networks, Evolutionary Networks, and Fuzzy Systems strengthens your ability to design intelligent, adaptive, and data-driven systems.
+
+- 🤖 Mastering these approaches provides a strong foundation for advanced research in artificial intelligence.
+
+## 🛠️ Prerequisites
+
+Ensure that you have the following up and running:
+
+ 👉  Install git on your computer (https://git-scm.com/install/)
+
+- 👉  Ensure you have Pytorch environment (https://nrp.ai/)
+
+- 👉  Log in to you CSUSB assigned namespaced (https://nrp.ai/)
+
+- 👉 Collaborative workspace for team coordination and project communication
+  [Microsoft Teams](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fchannel%2F19%3APcy4cyPJTK7yoU4m6THQoroMXldOt--gay1tlHrjhMA1%40thread.tacv2%2FGeneral%3FgroupId%3Db384adc3-3c8f-4fb9-9394-19f9001b310f%26tenantId%3Dd73b9eaa-07c9-47c4-a6ce-f13bee0e8117&type=channel&deeplinkId=70561868-7fcf-4f82-ade4-492c032d76ba&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
+
 
 # 🚀 How to Run the Project (NRP Required)
 
