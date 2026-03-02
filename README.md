@@ -57,11 +57,11 @@ handle uncertainty and imprecision in complex problems.
 
 ## Why Learn This?
 
-- 🧠 Learning these methods enables you to solve complex real-world problems by modeling patterns, uncertainty, and optimization challenges effectively.
+- 🧠 **Research Significance:** Learning these methods enables you to solve complex real-world problems by modeling patterns, uncertainty, and optimization challenges effectively.
 
-- 📋  Understanding Neural Networks, Evolutionary Networks, and Fuzzy Systems strengthens your ability to design intelligent, adaptive, and data-driven systems.
+- 📋  **Educational Objective:** Understanding Neural Networks, Evolutionary Networks, and Fuzzy Systems strengthens your ability to design intelligent, adaptive, and data-driven systems.
 
-- 🤖 Mastering these approaches provides a strong foundation for advanced research in artificial intelligence.
+- 🤖 **Scientific Contribution:** Mastering these approaches provides a strong foundation for advanced research in artificial intelligence.
 
 ## 🛠️ Prerequisites
 
@@ -79,7 +79,7 @@ Ensure that you have the following up and running:
 
 # 🚀 How to Run the Project (NRP Required)
 
-All final results must be executed on **NRP.ai using the NRP Stack PyTorch2 environment**.
+All experimental results are required to be executed within the **NRP.ai environment using the NRP Stack PyTorch2** configuration to ensure consistency and reproducibility.
 
 ---
 
